@@ -22,10 +22,10 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold">Follow Us</h3>
           <div className="flex gap-4 mt-2">
-            <a href="www.facebook.com" className="text-gray-400 hover:text-white text-xl"><FaFacebookF /></a>
-            <a href="www.twitter.com" className="text-gray-400 hover:text-white text-xl"><FaTwitter /></a>
-            <a href="www.instagram.com" className="text-gray-400 hover:text-white text-xl"><FaInstagram /></a>
-            <a href="www.linkedIn.com" className="text-gray-400 hover:text-white text-xl"><FaLinkedinIn /></a>
+            <a href="https://www.facebook.com" className="text-gray-400 hover:text-white text-xl"><FaFacebookF /></a>
+            <a href="https://www.twitter.com" className="text-gray-400 hover:text-white text-xl"><FaTwitter /></a>
+            <a href="https://www.instagram.com" className="text-gray-400 hover:text-white text-xl"><FaInstagram /></a>
+            <a href="https://www.linkedIn.com" className="text-gray-400 hover:text-white text-xl"><FaLinkedinIn /></a>
           </div>
         </div>
       </div>
